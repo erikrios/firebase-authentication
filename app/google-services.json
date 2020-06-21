@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "118998591950",
+    "firebase_url": "https://fir-authentication-de505.firebaseio.com",
+    "project_id": "fir-authentication-de505",
+    "storage_bucket": "fir-authentication-de505.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:118998591950:android:20c91aadaa1447b0a5e39f",
+        "android_client_info": {
+          "package_name": "com.warokdroid.firebaseauthentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "118998591950-c831jk2ncchuoup7nfidtgln898s9ile.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdicd3IBRToKG7DFoYvHRfVVZasjr6TvQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "118998591950-c831jk2ncchuoup7nfidtgln898s9ile.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
