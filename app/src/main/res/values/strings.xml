@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">FirebaseAuthentication</string>
+    <string name="register">Register</string>
+    <string name="email">E-Mail</string>
+    <string name="email_hint">Enter E-mail</string>
+    <string name="password">Password</string>
+    <string name="password_hint">Enter Password...</string>
+    <string name="login">Login</string>
+    <string name="not_logged_in_message">You are not legged in</string>
 </resources>
